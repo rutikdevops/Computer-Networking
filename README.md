@@ -1,1 +1,6 @@
 # Computer-Networking
+
+# Networking Cheatsheet [By Love Babbar]
+https://whimsical.com/networking-cheatsheet-by-love-babbar-FcLExFDezehhfsbDPfZDBv 
+
+https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa01wOGpWLUk0T3pWV0xfb0swbUM0NU93RE9hd3xBQ3Jtc0tua3pmTmZfai1nWVE2a0JmNXZsVHp4UklpYW9tYzBwRWRLLUhfdWFjUFlvZnBHVjBlaTRQVGhTVkNLQmdES0dBY0w0a1RxRWUwVXpGd2VubmVxMnQ4QUE1cFFrMy1WdXVOSmVGQW1mTmZnRlBkbzVkcw&q=https%3A%2F%2Fbit.ly%2F3eneXtr&v=oYeJoJXIP9Q
